@@ -1,0 +1,2 @@
+# newhouseInvitation
+这是一个用uniapp框架开发的微信小程序的项目，就是一个很普通的邀请函
